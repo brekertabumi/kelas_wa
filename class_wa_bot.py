@@ -1,3 +1,3 @@
-unreadclass='_2Q3SY'
-namakontak = '_3es8f'
-textbox = 'DuUXI'
+_UNREAD_='_2Q3SY'
+_NAMAKONTAK_ = '_3es8f'
+_TEXTBOX_ = 'DuUXI'
