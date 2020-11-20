@@ -1,0 +1,3 @@
+_UNREAD_ = "_2Q3SY"  # cek pesan unread 
+_NAMAKONTAK_ = "_3es8f"  # NAMA KONTAK 
+_TEXTBOX_ = "DuUXI"  # TEXXBOK KIRIM 
